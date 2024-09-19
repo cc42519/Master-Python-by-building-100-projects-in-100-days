@@ -1,0 +1,98 @@
+{'title': '100) Stand By Me', 'year': '1986'}
+{'title': '99) Raging Bull', 'year': '1980'}
+{'title': '98) Amelie', 'year': '2001'}
+{'title': '97) Titanic', 'year': '1997'}
+{'title': '96) Good Will Hunting', 'year': '1997'}
+{'title': '95) Arrival', 'year': '2016'}
+{'title': '94) Lost In Translation', 'year': '2003'}
+{'title': '93) The Princess Bride', 'year': '1987'}
+{'title': '92) The Terminator', 'year': '1984'}
+{'title': '91) The Prestige', 'year': '2006'}
+{'title': '90) No Country For Old Men', 'year': '2007'}
+{'title': '89) Shaun Of The Dead', 'year': '2004'}
+{'title': '88) The Exorcist', 'year': '1973'}
+{'title': '87) Predator', 'year': '1987'}
+{'title': '86) Indiana Jones And The Last Crusade', 'year': '1989'}
+{'title': '85) LÃ©on', 'year': '1994'}
+{'title': '84) Rocky', 'year': '1976'}
+{'title': '83) True Romance', 'year': '1993'}
+{'title': '82) Some Like It Hot', 'year': '1959'}
+{'title': '81) The Social Network', 'year': '2010'}
+{'title': '15) Spirited Away', 'year': '2016'}
+{'title': '79) Captain America: Civil War', 'year': '2003'}
+{'title': '78) Oldboy', 'year': '1995'}
+{'title': '77) Toy Story', 'year': '1971'}
+{'title': '76) A Clockwork Orange', 'year': '1996'}
+{'title': '75) Fargo', 'year': '2001'}
+{'title': '74) Mulholland Dr.', 'year': '1954'}
+{'title': '73) Seven Samurai', 'year': '1954'}
+{'title': '72) Rear Window', 'year': '2007'}
+{'title': '71) Hot Fuzz', 'year': '1994'}
+{'title': '70) The Lion King', 'year': '1952'}
+{'title': "69) Singin' In The Rain", 'year': '1984'}
+{'title': '68) Ghostbusters', 'year': '2000'}
+{'title': '67) Memento', 'year': '1983'}
+{'title': '66) Return Of The Jedi', 'year': '2012'}
+{'title': '65) Avengers Assemble', 'year': '1997'}
+{'title': '64) L.A. Confidential', 'year': '2001'}
+{'title': '63) Donnie Darko', 'year': '2016'}
+{'title': '62) La La Land', 'year': '1994'}
+{'title': '61) Forrest Gump', 'year': '1999'}
+{'title': '60) American Beauty', 'year': '1982'}
+{'title': '59) E.T. â\x80\x93 The Extra Terrestrial', 'year': '2009'}
+{'title': '58) Inglourious Basterds', 'year': '2014'}
+{'title': '57) Whiplash', 'year': '1992'}
+{'title': '56) Reservoir Dogs', 'year': '2006'}
+{'title': "55) Pan's Labyrinth", 'year': '1958'}
+{'title': '54) Vertigo', 'year': '1960'}
+{'title': '53) Psycho', 'year': '1968'}
+{'title': '52) Once Upon A Time In The West', 'year': '1946'}
+{'title': "51) It's A Wonderful Life", 'year': '1962'}
+{'title': '50) Lawrence Of Arabia', 'year': '1996'}
+{'title': '49) Trainspotting', 'year': '1991'}
+{'title': '48) The Silence Of The Lambs', 'year': '2014'}
+{'title': '47) Interstellar', 'year': '1941'}
+{'title': '46) Citizen Kane', 'year': '2011'}
+{'title': '45) Drive', 'year': '2000'}
+{'title': '44) Gladiator', 'year': '1975'}
+{'title': "43) One Flew Over The Cuckoo's Nest", 'year': '2007'}
+{'title': '42) There Will Be Blood', 'year': '2004'}
+{'title': '41) Eternal Sunshine Of The Spotless Mind', 'year': '1957'}
+{'title': '40) 12 Angry Men', 'year': '1998'}
+{'title': '39) Saving Private Ryan', 'year': '2015'}
+{'title': '38) Mad Max: Fury Road', 'year': '1982'}
+{'title': '37) The Thing', 'year': '2006'}
+{'title': '36) The Departed', 'year': '1980'}
+{'title': '35) The Shining', 'year': '2014'}
+{'title': '34) Guardians Of The Galaxy', 'year': '1993'}
+{'title': "33) Schindler's List", 'year': '1995'}
+{'title': '32) The Usual Suspects', 'year': '1976'}
+{'title': '31) Taxi Driver', 'year': '1995'}
+{'title': '30) Seven', 'year': '1998'}
+{'title': '29) The Big Lebowski', 'year': '1942'}
+{'title': '28) Casablanca', 'year': '1966'}
+{'title': '27) The Good, The Bad And The Ugly', 'year': '1995'}
+{'title': '26) Heat', 'year': '1991'}
+{'title': '25) Terminator 2: Judgment Day', 'year': '1999'}
+{'title': '24) The Matrix', 'year': '2002'}
+{'title': '23) The Lord Of The Rings: The Two Towers', 'year': '1979'}
+{'title': '22) Apocalypse Now', 'year': '1968'}
+{'title': '21) 2001: A Space Odyssey', 'year': '1988'}
+{'title': '20) Die Hard', 'year': '1993'}
+{'title': '19) Jurassic Park', 'year': '2010'}
+{'title': '18) Inception', 'year': '1999'}
+{'title': '17) Fight Club', 'year': '2003'}
+{'title': '16) The Lord Of The Rings: The Return Of The King', 'year': '1986'}
+{'title': '15) Aliens', 'year': '1979'}
+{'title': '14) Alien', 'year': '1982'}
+{'title': '13) Blade Runner', 'year': '1974'}
+{'title': '12: The Godfather Part II', 'year': '1985'}
+{'title': '11) Back To The Future', 'year': '2001'}
+{'title': '10) The Lord Of The Rings: The Fellowship Of The Ring', 'year': '1977'}
+{'title': '9) Star Wars', 'year': '1975'}
+{'title': '8) Jaws', 'year': '1981'}
+{'title': '7) Raiders Of The Lost Ark', 'year': '1990'}
+{'title': '6) Goodfellas', 'year': '1994'}
+{'title': '5) Pulp Fiction', 'year': '1994'}
+{'title': '4) The Shawshank Redemption', 'year': '2008'}
+{'title': '3) The Dark Knight', 'year': '1972'}
